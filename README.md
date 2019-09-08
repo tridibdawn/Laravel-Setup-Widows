@@ -15,7 +15,7 @@ laravel new myApp
 
 <VirtualHost *:80>
     DocumentRoot "C:/xampp/htdocs/laravel-test/public"
-    ServerName laratest.dev
+    ServerName laratest.test
 </VirtualHost>
 ```
 # Add the url of your application to 127.0.0.1
@@ -24,7 +24,7 @@ laravel new myApp
 # Add the following lines to the bottom
 ```
 127.0.0.1 localhost
-127.0.0.1 laratest.dev
+127.0.0.1 laratest.test
 ```
 > Save and close the "hosts" file and Restart your apache server
 

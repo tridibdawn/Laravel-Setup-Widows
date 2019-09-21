@@ -28,4 +28,4 @@ laravel new myApp
 ```
 > Save and close the "hosts" file and Restart your apache server
 
-> Now visit your URL in your browser "laratest.dev"
+> Now visit your URL in your browser "laratest.test"
